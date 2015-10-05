@@ -15,5 +15,6 @@ v1.05b	2011-02-21		AjaxReady()
 v1.04b	2011-01-27		DisplayHide()
 v1.03b	2011-01-11		Renamed dom(), pageWidth(), pageHeight()
 v1.02b	2010-12-21		Renamed RepositionObject() to SetObjectPosition()
-v1.01b	2010-12-15		Added check for undefined object in killElement(id) 										
+v1.01b	2010-12-15		Added check for undefined object in killElement(id)
 v1.0b	2010-12-06		First public version
+
