@@ -3,11 +3,8 @@
 // v1.10	2013-11-22
 // No warranty no guarantee. Use at your own risk.
 //
-// http://www.atec-systems.com/jatec/jatec.js (plain text)
-// http://www.atec-systems.com/jatec/jatec.min.js (compressed)
-// http://www.atec-systems.com/jatec/jatec.html (manual)
-// http://www.atec-systems.com/jatec/jatec.version.txt (version history)
-// http://www.atec-systems.com/jatec/jatec.php (gzip/cacheable)
+// http://jatec.atec-systems.com
+// http://docjojo.github.io/jatec/
 
 var pw, ph, preload_pics=[], xmlHttp=AjaxObject(), fadein_timer;
 
