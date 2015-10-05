@@ -1,9 +1,7 @@
 jatec - ATEC-Systems Javascript Framework
-© 2010/14 by Chris Ahrweiler
-http://www.atec-systems.com/jatec/jatec.js (plain text)
-http://www.atec-systems.com/jatec/jatec.min.js (compressed)
-http://www.atec-systems.com/jatec/jatec.html (manual)
-http://www.atec-systems.com/jatec/jatec.version.txt (version history)
+Â© 2010/15 by Chris Ahrweiler
+http://jatec.atec-systems.com
+http://docjojo.github.io/jatec/
 
 Version history
 
