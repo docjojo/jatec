@@ -9,6 +9,9 @@ Use at your own risk.
 
 ## Releases
 
+- Secure -- ddd -- ddd --- ddd
+- ddd ---d 
+
 - v1.1 (historic) -- Development version [jatec.1.1.js](https://raw.githubusercontent.com/docjojo/jatec/gh-pages/1.1/jatec-1.1.js) -- Minimized version [jatec.1.1.min.js](https://raw.githubusercontent.com/docjojo/jatec/gh-pages/1.1/jatec-1.1.min.js)
 
 - v2.0 (current) -- Minimized version [jatec.2.0.min.js](https://raw.githubusercontent.com/docjojo/jatec/gh-pages/2.0/jatec-2.0.min.js)
