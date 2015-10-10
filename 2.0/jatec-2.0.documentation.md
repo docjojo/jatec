@@ -1,5 +1,6 @@
-# jATEC v2.0 - ATEC-Systems Javascript Framework
-## Documentation
+# jATEC v2.0
+## ATEC-Systems Javascript Framework
+### Documentation
 
 
 |Variable   |Description                                                                        |Default
@@ -35,31 +36,21 @@ If no parameter is given, they return the value that would otherwise be set.
 |AddNewStyleRule(name,attrib)           |add new css style rule                                                              |AddNewStyleRule('div','color:black');
 |DisplayArray(a,visible)                |run $$().display() on array ’a’                                                     |DisplayArray(['t1','t2'],'block');
 |ShowArray(a,visible)                   |run $$().visibility() on array ’a’                                                  |ShowArray(['t1','t2'],'hidden');
-
 |img.cache(dir,arr)                     |cache array of images ’arr' from directory 'dir'                                    |img.cache('images/',['ref.png','algo.png']);
 |img.cycle(id,dir,arr,delay)            |slide show of images array ’arr' from directory 'dir' with delay                    |img.cycle('bw','',['1.jpg','2.jpg','3.jpg'],2000);
-
-
 |inArray(arr,a)                         |find element 'a' in array 'arr'                                                     |con(inArray(['t1','t2'],'t3'));
 |AppendScript(jsname,id)                |append a javascript file                                                            |AppendScript('scripts/flow.php','flow');
 |AppendCSS(src)                         |append a css file                                                                   |AppendCSS('mobile.css');
-
 |QueryString(key)                       |return window.location.search substring ’key’                                       |QueryString('page');
-
 |base64.encode(s)                       |base64 encode 's'                                                                   |base64.encode("test");
 |base64.decode(s)                       |base64 decode 's'                                                                   |base64.decode("dGVzdA==");
-
 |Pad(t,i)                               |add '0' to string ’t’ until length=’i’                                              |Pad(t.getHours(),2);
 |Time()                                 |return current time stamp                                                           |con(Time());
 |Bench(start)                           |start timing, if ’start’=true, otherwise return time elapsed                        |Bench(true); con(Bench());
-
 |css.init()                             |initialize css features                                                             |css.init();
 |css.find(classname)                    |return css rule with "classname"                                                    |css.find('div');
 |css.set(rule,attr,value)               |set attribute of css rule                                                           |css.set(css.find('div'),'float','left');
-
 |hash.set(str)                          |set window.location.hash                                                            |hash.set('calendar');
 |hash.get()                             |get window.location.hash                                                            |alert(hash.get());
-
 |cookie.set(c_name,value,expiredays)    |set cookie                                                                          |cookie.set('email',f.email.value,90);
 |cookie.get(c_name)                     |return cookie, '' if empty                                                          |cookie.get('email');
-
